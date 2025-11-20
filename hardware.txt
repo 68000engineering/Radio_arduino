@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=GtjMTa7vuIY
+
+4 buttons
+Headphones
+
+Arduino Nano(6.8)
+https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=1005007524650468&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y&src=google&albch=shopping&acnt=615-992-9880&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=_oFgTQeV&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=de1005007524650468&ds_e_product_merchant_id=5417557167&ds_e_product_country=AT&ds_e_product_language=de&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=22482375352&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=22482428299&gbraid=0AAAAA_TvRHrV4MqNMHK86BA-UOici3YqI&gclid=EAIaIQobChMI9tmn5baBkQMVjHJBAh0BXQ0aEAQYASABEgLvdfD_BwE
+
+LCD Display(1.7)
+https://de.aliexpress.com/item/1005007531187322.html?src=google&pdp_npi=4%40dis!EUR!1.66!1.04!!!!!%40!12000041176830271!ppc!!!&src=google&albch=shopping&acnt=615-992-9880&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=_oFgTQeV&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=de1005007531187322&ds_e_product_merchant_id=5551326180&ds_e_product_country=AT&ds_e_product_language=de&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=22482375352&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=22482428299&gbraid=0AAAAA_TvRHrV4MqNMHK86BA-UOici3YqI&gclid=EAIaIQobChMI2f3S0raBkQMVLQMGAB3f6x-DEAQYASABEgI0o_D_BwE
+
+Si4703 FM Tuner (2.5)
+https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=1005009488878950&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y&src=google&albch=shopping&acnt=615-992-9880&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=_oFgTQeV&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=de1005009488878950&ds_e_product_merchant_id=107903776&ds_e_product_country=AT&ds_e_product_language=de&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=22482375352&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=22482428299&gbraid=0AAAAA_TvRHrV4MqNMHK86BA-UOici3YqI&gclid=EAIaIQobChMI9t7ZnbWBkQMVNoX9BR1uRghwEAQYASABEgJYsfD_BwE
+
+Powered by arduino itself
